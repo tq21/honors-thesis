@@ -1,4 +1,4 @@
-# functions to fit logistic regression and summarize results
+# functions for fitting logistic regression and summarize results
 
 # returns a formula object for logistic regression
 create_formula = function(outcome, variables) {

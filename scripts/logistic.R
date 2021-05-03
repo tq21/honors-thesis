@@ -1,5 +1,5 @@
 source("./scripts/clean.R")
-source("./scripts/logistic_wrapper.R")
+source("./scripts/logistic_functions.R")
 
 # create readmission indicators
 df_reg = df_full
